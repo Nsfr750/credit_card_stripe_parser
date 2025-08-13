@@ -80,3 +80,4 @@ local_settings.py
 ehthumbs.db
 Thumbs.db
 parser.bat
+nuitka-crash-report.xml
